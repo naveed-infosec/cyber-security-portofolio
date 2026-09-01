@@ -1,4 +1,4 @@
-# Lab 3: Phishing Email Analysis
+# Lab 2: Phishing Email Analysis
 **Context**: Completed using educational examples from Phishbox.org
 **Time to Complete**: 30 minutes
 
